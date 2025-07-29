@@ -5,7 +5,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class lab2 {
+public class ResolutionEngine {
 
     public static void main(String[] args) {
 
